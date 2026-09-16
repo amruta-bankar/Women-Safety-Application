@@ -13,3 +13,16 @@ Features
 📖 In-App Instructions / App Tour — A guided walkthrough so the app is easy to use, even under stress.
 👥 Emergency Contact Management — Add, edit, and prioritize up to 5 emergency contacts.
 ⚡ Works with Minimal Connectivity — Built to remain functional and responsive under low-bandwidth conditions.
+
+Tech Stack
+Layer	Technology
+Language	Java
+IDE	Android Studio
+Local Storage	SQLite
+Cloud Storage / Auth	Firebase Realtime Database, Firebase Authentication
+Maps & Location	Google Maps API, Fused Location Provider API
+News	News API
+UI	XML layouts, Material Design
+Background Work	Android Services & Broadcast Receivers (power-button detection)
+Testing	JUnit, Mockito, Espresso
+Version Control	Git
