@@ -1,0 +1,58 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (contains SDK path, and possibly API keys)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files (NEVER commit real keystores/signing keys)
+*.jks
+*.keystore
+
+# Google Services (Firebase config - contains project keys)
+google-services.json
+
+# Version control
+vcs.xml
+
+# Android Profiling
+*.hprof
+
+# API keys / secrets
+apikey.properties
+secrets.properties
